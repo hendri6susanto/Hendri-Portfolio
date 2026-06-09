@@ -6,7 +6,30 @@
 
 1. C# / .NET Core / .NET 8-10.
 2. Minimal APIs / Web API
-3. RabbitMq
+3. Grpc
+4. SignalR
+5. Graphql
+6. ASP.NET Core / MVC
+7. Blazor
+
+
+## Architecture & Pattern
+
+1. Clean Architecture
+2. CQRS (MediatR)
+3. Repository Pattern
+
+## Data & Storage
+
+1. SQL Server / PostgreSQL
+2. Redis (Caching)
+3. Dapper / Entity Framework Core
+4. LLBLGen
+
+## Messaging & Distributed Systems
+
+1. RabbitMQ
+2. Background Workers / Hosted Services
 
 
 ### SFTP Sending Service
