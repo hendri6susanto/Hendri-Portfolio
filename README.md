@@ -2,7 +2,7 @@
 
 .NET Developer experienced in building applications with .NET and .NET Core, with a strong focus on modern .NET technologies and best practices.
 
-## Tech Stacks
+# Tech Stacks
 
 1. C# / .NET Core / .NET 8-10.
 2. Minimal APIs / Web API
@@ -13,20 +13,20 @@
 7. Blazor
 
 
-## Architecture & Pattern
+# Architecture & Pattern
 
 1. Clean Architecture
 2. CQRS (MediatR)
 3. Repository Pattern
 
-## Data & Storage
+# Data & Storage
 
 1. SQL Server / PostgreSQL
 2. Redis (Caching)
 3. Dapper / Entity Framework Core
 4. LLBLGen
 
-## Messaging & Distributed Systems
+# Messaging & Distributed Systems
 
 1. RabbitMQ
 2. Background Workers / Hosted Services
