@@ -1,4 +1,4 @@
-# Hendri-Portfolio
+# About Me
 
 .NET Developer experienced in building applications with .NET and .NET Core, with a strong focus on modern .NET technologies and best practices.
 
