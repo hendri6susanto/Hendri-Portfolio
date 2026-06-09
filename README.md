@@ -2,18 +2,25 @@
 
 .NET Developer experienced in building applications with .NET and .NET Core, with a strong focus on modern .NET technologies and best practices.
 
-## SFTP Sending Service
+## Tech Stacks
+
+1. C# / .NET Core / .NET 8-10.
+2. Minimal APIs / Web API
+3. RabbitMq
+
+
+### SFTP Sending Service
 
 Service to send files via SFTP.
 
-## SFTP Download Service 
+### SFTP Download Service 
 
 Service to backup file via SFTP.
 
-## Web Scraping apps
+### Web Scraping apps
 
 extract data from website automatically.
 
-## Reduce PDF File Size
+### Reduce PDF File Size
 
 Generate pdf file from filecontent and reduce the file size PDF
